@@ -1,0 +1,22 @@
+{
+  "name": "binance-chain-utils",
+  "version": "1.0.0",
+  "description": "Some utilities for interacting with Binance Chain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tixl/binance-chain-utils.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tixl/binance-chain-utils/issues"
+  },
+  "homepage": "https://github.com/tixl/binance-chain-utils#readme",
+  "dependencies": {
+    "ferrum-chain-clients": "github:ferrumnet/ferrum-chain-clients"
+  }
+}
